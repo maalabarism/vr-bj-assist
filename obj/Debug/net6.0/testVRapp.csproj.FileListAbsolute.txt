@@ -1,0 +1,15 @@
+C:\Users\change\source\repos (c#)\testVRapp\bin\Debug\net6.0\testVRapp.exe
+C:\Users\change\source\repos (c#)\testVRapp\bin\Debug\net6.0\testVRapp.deps.json
+C:\Users\change\source\repos (c#)\testVRapp\bin\Debug\net6.0\testVRapp.runtimeconfig.json
+C:\Users\change\source\repos (c#)\testVRapp\bin\Debug\net6.0\testVRapp.dll
+C:\Users\change\source\repos (c#)\testVRapp\bin\Debug\net6.0\testVRapp.pdb
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.csproj.AssemblyReference.cache
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.AssemblyInfoInputs.cache
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.AssemblyInfo.cs
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.csproj.CoreCompileInputs.cache
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.dll
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\refint\testVRapp.dll
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.pdb
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\testVRapp.genruntimeconfig.cache
+C:\Users\change\source\repos (c#)\testVRapp\obj\Debug\net6.0\ref\testVRapp.dll
